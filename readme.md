@@ -260,7 +260,7 @@ Technology:   17.40%
 ```
 ## 效果展示
 ```
-https://github.com/narakusamar/sql-copilot/blob/master/1.png
+![demo1](https://github.com/narakusamar/sql-copilot/blob/master/1.png)
 
 ```
 ## 命令
