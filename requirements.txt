@@ -1,0 +1,10 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.50.0
+sentence-transformers>=4.0.0
+numpy>=1.24.0
+plotly>=5.0.0
+openpyxl>=3.0.0
+# 可选: MySQL / PostgreSQL 驱动
+# pymysql>=1.1.0
+# psycopg2-binary>=2.9.0

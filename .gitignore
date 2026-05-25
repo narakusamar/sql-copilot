@@ -1,0 +1,24 @@
+# 敏感配置
+core/config.env
+
+# 数据库文件
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 生成的图表
+charts/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
