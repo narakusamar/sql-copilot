@@ -258,7 +258,17 @@ Technology:   17.40%
 > 按利润再排一下
 [自动将 ORDER BY Sales → ORDER BY Profit，并追加 Profit 列]
 ```
+## 效果展示
+```
 
+<img width="1912" height="948" alt="7c43550e26471e45de246c4f3a20ea68" src="https://github.com/user-attachments/assets/8ee0eafc-d780-48a9-84a8-f1191830a020" />
+
+<img width="1920" height="1032" alt="32e782b718e5ca76c81689e96f5b4c0a" src="https://github.com/user-attachments/assets/3bf267c4-ad60-43e0-bb62-5e7521c2f894" />
+
+
+
+
+```
 ## 命令
 
 | 命令 | 说明 |
